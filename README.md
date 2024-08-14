@@ -35,6 +35,7 @@ Overall:
 If any of the above features suggest phishing, the URL will be flagged as phishing. Review all the indicators to determine if the URL might be a phishing attempt.
 
 
+
 Example URLs to Test:
 
 Phishing Example: http://123.456.789.000/ (Contains IP Address)
