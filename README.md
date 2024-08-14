@@ -1,5 +1,7 @@
 # Phishing Detection App
-This Streamlit application detects the state of a phishing URL with different features extracted from the URLs. An interactive interface for uploading data, visualizing distributions of features, and predicting new URLs is provided.
+This Streamlit application detects the state of a phishing URL with different features extracted from the URLs (URL Length, IP address, @symbol, favicon icon, Double slash in path, pop window, and IFrame).
+
+An interactive interface for uploading data, visualizing distributions of features, and predicting new URLs is provided.
 
 **Features:**
 
